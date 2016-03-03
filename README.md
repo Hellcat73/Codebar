@@ -1,2 +1,1 @@
-# Codebar
-Where I store the work I have done in the codebar sessions
+This is where I store the work I have done at Codebar
